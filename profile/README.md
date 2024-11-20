@@ -1,7 +1,7 @@
 # CentroidCNC's CentroidAPI Github Profile
-For Visual Basic Examples please see: https://github.com/CentroidCNC/CentroidAPI_VBnet_PowerFeed
+For a Visual Basic Example please see: https://github.com/CentroidCNC/CentroidAPI_VBnet_PowerFeed
 
-C# Examples coming soon!
+For a C# Example please see: https://github.com/CentroidCNC/CentroidAPI_CSharp_PowerFeed
 
 Also new documentation will be available on https://centroidcnc.com in the coming weeks. 
 
